@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ElevarAlCuadrado</string>
+    <string name="txt_resultado">0</string>
+    <string name="elevar_al_cuadrado">Elevar Al Cuadrado</string>
+    <string name="introduce_un_numero">introduce un numero</string>
+
+</resources>
